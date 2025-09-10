@@ -73,6 +73,19 @@ We are building a **multilingual AI-based advisory system** with the following f
 - [ ] Offline fallback responses  
 - [ ] Demo video + final submission PDF  
 
+📊 Demo & Submission
+
+📄 PDF submission: docs/Smart_Crop_Advisory_System.pdf
+
+🎥 Demo video: (to be added)
+
+🔗 Live prototype: (to be added)
+
+👥 Team
+
+[Your Name] – Backend & AI Integration
+
+[Teammates if any] – Frontend & UI/UX
 ---
 
 ## 📂 Repository Structure
@@ -101,16 +114,3 @@ cd frontend
 npm install
 npm start
 
-📊 Demo & Submission
-
-📄 PDF submission: docs/Smart_Crop_Advisory_System.pdf
-
-🎥 Demo video: (to be added)
-
-🔗 Live prototype: (to be added)
-
-👥 Team
-
-[Your Name] – Backend & AI Integration
-
-[Teammates if any] – Frontend & UI/UX
